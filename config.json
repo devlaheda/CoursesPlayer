@@ -1,7 +1,7 @@
 {
     "db_file": "default.db",
     "root_dir": "D:\\COURS",
-    "scanned": true,
+    "scanned": false,
     "playback_speed": 2.0,
     "selected_item": [
         "I1113"
